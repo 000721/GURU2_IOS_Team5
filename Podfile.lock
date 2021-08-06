@@ -1,0 +1,26 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - FSCalendar (2.8.2)
+  - SwiftyGif (5.4.0)
+
+DEPENDENCIES:
+  - FMDB
+  - FSCalendar
+  - SwiftyGif
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - FSCalendar
+    - SwiftyGif
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  SwiftyGif: 5d4af95df24caf1c570dbbcb32a3b8a0763bc6d7
+
+PODFILE CHECKSUM: c3ef813ecd232a9483ff7c607221b754e39b8aa3
+
+COCOAPODS: 1.10.0

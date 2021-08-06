@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "029D78A9-3BBA-42E9-81D8-3E5FAF6A168E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59EF0767-0969-437A-BF06-96B689F3F6A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchedulerSWU/IntroViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "IntroViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "59EF0767-0969-437A-BF06-96B689F3F6A7 - cc67d61ad1905940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulerSWU.IntroViewController.intro_image.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "SchedulerSWU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaerin/Downloads/SchedulerSWU%20_end%202/SchedulerSWU/IntroViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "59EF0767-0969-437A-BF06-96B689F3F6A7 - 1af21699d9d2254c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulerSWU.IntroViewController.intro_image.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "SchedulerSWU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaerin/Downloads/SchedulerSWU%20_end%202/SchedulerSWU/IntroViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "59EF0767-0969-437A-BF06-96B689F3F6A7 - ec7dc57890de38b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulerSWU.IntroViewController.intro_image.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "SchedulerSWU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaerin/Downloads/SchedulerSWU%20_end%202/SchedulerSWU/IntroViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "59EF0767-0969-437A-BF06-96B689F3F6A7 - 8a5d4a5352ed08e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulerSWU.IntroViewController.intro_image.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SchedulerSWU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaerin/Downloads/SchedulerSWU%20_end%202/SchedulerSWU/IntroViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "59EF0767-0969-437A-BF06-96B689F3F6A7 - a081bc628e30879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulerSWU.IntroViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SchedulerSWU.IntroViewController"
+                  moduleName = "SchedulerSWU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaerin/Downloads/SchedulerSWU%20_end%202/SchedulerSWU/IntroViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "59EF0767-0969-437A-BF06-96B689F3F6A7 - 46bd409e7bb9d8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulerSWU.IntroViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SchedulerSWU.IntroViewController&gt;"
+                  moduleName = "SchedulerSWU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaerin/Downloads/SchedulerSWU%20_end%202/SchedulerSWU/IntroViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
